@@ -9,4 +9,4 @@ js源码: [http://res.wx.qq.com/open/js/jweixin-1.0.0.js](http://res.wx.qq.com/o
 安装:`npm install weixin-jsapi`
 
 
-使用:`import wx from 'weixin-jsapi`
+使用:`import wx from 'weixin-jsapi'`

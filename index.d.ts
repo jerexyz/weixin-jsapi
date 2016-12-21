@@ -385,3 +385,5 @@ declare class BodyMenuShareWeibo {
     cancel: Function;
 
 }
+
+export default wx;

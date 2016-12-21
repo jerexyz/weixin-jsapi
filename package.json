@@ -1,0 +1,24 @@
+{
+  "name": "weixin-jssdk",
+  "version": "1.0.0",
+  "description": "微信官方 js-sdk CommonJS 版本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerexyz/weixin-jssdk.git"
+  },
+  "keywords": [
+    "weixin",
+    "wechat",
+    "jssdk"
+  ],
+  "author": "jere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerexyz/weixin-jssdk/issues"
+  },
+  "homepage": "https://github.com/jerexyz/weixin-jssdk#readme"
+}

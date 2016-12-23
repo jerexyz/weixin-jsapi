@@ -1,5 +1,6 @@
 !function (a, b) {
-    module.exports = b(a)
+    var exp = b(a)
+    module.exports = {default:exp};
 }(window, function (a, b) {
     function c(b, c, d) {
         a.WeixinJSBridge ? WeixinJSBridge.invoke(b, e(c), function (a) {

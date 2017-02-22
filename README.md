@@ -1,4 +1,6 @@
 # weixin-jssdk
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/jerexyz/weixin-jssdk.svg)](https://greenkeeper.io/)
 微信官方 js-sdk CommonJS 版本
 说明: 仅将官方 js-sdk 发布到 npm，便于 webpack 使用
 

@@ -1,7 +1,7 @@
 {
   "name": "weixin-jsapi",
   "version": "1.0.7",
-  "description": "微信官方 js-sdk CommonJS 版本",
+  "description": "微信官方 js-sdk es6 版本",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,5 +1,5 @@
 # weixin-jssdk
-微信官方 js-sdk CommonJS 版本
+微信官方 js-sdk es6 版本
 说明: 仅将官方 js-sdk 发布到 npm，便于 webpack 使用
 
 js源码: [http://res.wx.qq.com/open/js/jweixin-1.0.0.js](http://res.wx.qq.com/open/js/jweixin-1.0.0.js)

@@ -386,4 +386,4 @@ declare class BodyMenuShareWeibo {
 
 }
 
-exports = wx;
+export default wx;

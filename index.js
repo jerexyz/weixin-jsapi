@@ -1,7 +1,4 @@
 !function (a, b) {
-    var exp = b(a)
-    module.exports = {default:exp};
-}(window, function (a, b) {
     function c(b, c, d) {
         a.WeixinJSBridge ? WeixinJSBridge.invoke(b, e(c), function (a) {
             g(b, a, d)
@@ -380,4 +377,6 @@
             c(o.chooseWXPay, f(a), a)
         }
     }, b && (a.wx = a.jWeixin = C), C
-});
+}(window,!0);
+
+export default window.wx;
